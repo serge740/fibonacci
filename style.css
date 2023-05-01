@@ -51,7 +51,7 @@ body{
     color: teal;
 }
 button{
-    background: linear-gradient(to right,rgb(113, 215, 223),rgb(0, 225, 255));
+    background: linear-gradient(to right,rgb(113, 215, 223),rgb(3, 188, 212));
     width: 150px;
     padding: 10px;
     border-radius: 20px;
